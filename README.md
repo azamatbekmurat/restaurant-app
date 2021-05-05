@@ -7,7 +7,7 @@ React js Master Detail CRUD with Asp.Net Web API
 `git clone https://github.com/azamatbekmurat/restaurant-app`
 
 * Navigate to the root of the clone project in a terminal with
-`cd socialmedia`
+`cd restaurant-app`
 
 * Run `npm install`
 
