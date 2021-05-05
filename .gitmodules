@@ -1,0 +1,3 @@
+[submodule "front-end-pr"]
+	path = front-end-pr
+	url = https://github.com/azamatbekmurat/front-end-pr
